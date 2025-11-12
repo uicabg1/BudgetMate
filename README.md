@@ -27,12 +27,12 @@ Al seleccionar la opción 4 en el menú, se genera un archivo gastos.csv en el m
 4. Exportar a CSV
 0. Salir
 Opción: 3
------------------------------------------------------
+
 N°   Categoría       Descripción              Monto
 1    comida          despensa                 $2134.32
 2    transporte      va y ven                 $100.00
 3    ocio            steam juego              $1234.23
------------------------------------------------------
+
 Total de compras: $3468.55
 
 ## Autor
